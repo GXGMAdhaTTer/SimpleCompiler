@@ -1,0 +1,5 @@
+﻿  grammar.c
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(591,54): warning C4020: “SetConsoleTextAttribute”: 实参太多
+  main.c
+  正在生成代码...
+  myCompiler.vcxproj -> C:\Users\xiaoguogao\source\repos\GXGCPC\x64\Debug\myCompiler.exe

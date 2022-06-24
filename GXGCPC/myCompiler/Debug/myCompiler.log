@@ -1,0 +1,143 @@
+﻿  grammar.c
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(21,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(22,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(25,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(27,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(30,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(31,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,15): error C2061: 语法错误: 标识符“keywords”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,15): error C2059: 语法错误:“;”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,23): error C2059: 语法错误:“[”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(82,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,36): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,33): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,36): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,33): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,38): error C2370: “V”: 重定义；不同的存储类
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(8): message : 参见“V”的声明
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,40): error C2146: 语法错误: 缺少“;”(在标识符“val”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,43): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,34): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,36): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,39): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(89,9): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,38): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,48): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,40): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,39): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(9,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(10,12): error C2065: “HashMap”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(10,24): error C2065: “wordTable”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(10,34): error C2065: “HashMap”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(10,35): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(11,41): error C2065: “keywords”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(11,60): error C2065: “keywords”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(11,62): error C2109: 下标要求数组或指针类型
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,22): warning C4013: “WordTable_put”未定义；假设外部返回 int
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,32): error C2065: “wordTable”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,42): error C2065: “keywords”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,44): error C2109: 下标要求数组或指针类型
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,64): error C2065: “keywords”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(12,66): error C2109: 下标要求数组或指针类型
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(14,21): error C2065: “wordTable”: 未声明的标识符
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(14,21): warning C4047: “return”:“int *”与“int”的间接级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(17,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(17,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(17,36): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(17,38): error C2054: 在“map”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,33): error C2146: 语法错误: 缺少“;”(在标识符“spelling”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,41): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(44,43): error C2054: 在“spelling”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,33): error C2146: 语法错误: 缺少“;”(在标识符“spelling”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,43): error C2370: “V”: 重定义；不同的存储类
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(8): message : 参见“V”的声明
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,45): error C2146: 语法错误: 缺少“;”(在标识符“tkcode”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,51): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(60,53): error C2054: 在“tkcode”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,34): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,36): error C2146: 语法错误: 缺少“;”(在标识符“spelling”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,44): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(89,46): error C2054: 在“spelling”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(117,9): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(121,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(121,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(121,38): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(121,48): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(121,49): error C2054: 在“wordlist”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(125,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(125,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(125,40): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(125,41): error C2054: 在“wordlist”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(129,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(129,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(129,39): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(129,41): error C2054: 在“wordlist”之后应输入“(”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.c(140,54): warning C4020: “SetConsoleTextAttribute”: 实参太多
+  main.c
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(21,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(22,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(25,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(27,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(30,2): error C2061: 语法错误: 标识符“TkWord”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(31,1): error C2059: 语法错误:“}”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,15): error C2061: 语法错误: 标识符“keywords”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,15): error C2059: 语法错误:“;”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(34,23): error C2059: 语法错误:“[”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(82,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(83,36): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,33): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(84,36): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,31): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,33): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,38): error C2370: “V”: 重定义；不同的存储类
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(8): message : 参见“V”的声明
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,40): error C2146: 语法错误: 缺少“;”(在标识符“val”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(85,43): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,34): error C2040: “K”:“int”与“char *”的间接寻址级别不同
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,36): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(86,39): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(89,9): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,38): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(90,48): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(91,40): error C2059: 语法错误:“)”
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\xiaoguogao\source\repos\GXGCPC\myCompiler\grammar.h(92,39): error C2059: 语法错误:“)”
+  正在生成代码...
